@@ -1,0 +1,8 @@
+Level-XML								+
+Creep: Health, Speed, Pathing						+
+LevelManager: CreepSpawner, CreepCounter, WaveController		
+CameraMovement: Zoom, WASDMovement, QERotation				+
+Player: BuildTower							+
+Tower: AttackCreeps 							+
+Collectables: Gold
+//NetworkManager

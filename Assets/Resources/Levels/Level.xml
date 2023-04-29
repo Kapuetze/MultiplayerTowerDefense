@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Level>
+  <Wave>
+    <Creep id="0" amount="5"></Creep>
+    <Creep id="1" amount="5"></Creep> 
+  </Wave>
+  <Wave>
+    <Creep id="0" amount="12"></Creep>
+    <Creep id="1" amount="4"></Creep>
+  </Wave>
+</Level>
